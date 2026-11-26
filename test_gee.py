@@ -6,7 +6,7 @@
 """
 import ee
 
-PROJECT_ID = "crucial-garden-425418-h3"   # ваш проєкт Earth Engine
+PROJECT_ID = "crucial-garden-425418-h3"   # проєкт Earth Engine
 
 # 1. Вхід. Першого разу відкриється браузер: увійдіть у той самий Google-акаунт
 #    і натисніть "Allow". Далі вхід запам'ятовується.

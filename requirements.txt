@@ -1,0 +1,33 @@
+# Бібліотеки магістерської роботи (встановлення: pip install -r requirements.txt)
+
+# Дані
+earthengine-api>=1.7      # Google Earth Engine (Sentinel-2)
+requests>=2.32            # NASA POWER API
+pandas>=2.2
+numpy>=2.0
+openpyxl>=3.1             # читання/запис Excel (Держстат, звіти)
+
+# Статистика і машинне навчання (розділ 2)
+scipy>=1.14               # фільтр Савіцкого-Голея, статистичні тести
+scikit-learn>=1.5         # регресія, Ridge, Random Forest, k-means
+lightgbm>=4.5             # основна модель прогнозу
+mapie>=0.9                # конформне прогнозування
+shap>=0.46                # пояснення прогнозів
+pymannkendall>=1.4        # тест Манна-Кендалла
+
+# Оптимізація (2.7)
+pulp>=2.9                 # MILP + розв'язувач CBC
+
+# Геодані (3.7)
+shapely>=2.0              # точка в багатокутнику, контури полів
+gpxpy>=1.6                # GPS-треки
+
+# Інформаційна система (розділ 3)
+sqlalchemy>=2.0
+fastapi>=0.115
+uvicorn>=0.30
+streamlit>=1.40
+
+# Графіки і ноутбуки
+matplotlib>=3.9
+jupyter>=1.1
