@@ -1,0 +1,4 @@
+,features
+кукурудза,"t_max,t_sos,v_up,A,ndvi_may,ndvi_jul,prec_sep_mar,prec_apr_jun,prec_jul_aug,t_apr_jun,hot_days_jja"
+пшениця,"t_max,t_sos,v_up,A,ndvi_may,ndvi_jul,prec_sep_mar,prec_apr_jun,prec_jul_aug,t_apr_jun,hot_days_jja"
+соняшник,"t_max,t_sos,v_up,A,ndvi_may,ndvi_jul,prec_sep_mar,prec_apr_jun,prec_jul_aug,t_apr_jun,hot_days_jja"
