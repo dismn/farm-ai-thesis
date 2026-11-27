@@ -1,0 +1,352 @@
+﻿oblast_ua,district_ua,year,crop,area_ha,production,prod_unit,yield_c_ha,data_status,source_url
+Черкаська,ОБЛАСТЬ,2021,пшениця,179317,9926345,ц,55.4,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_pshc_21.pdf
+Черкаська,Звенигородський,2021,пшениця,53587,3048993,ц,56.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_pshc_21.pdf
+Черкаська,Золотоніський,2021,пшениця,27447,1555485,ц,56.7,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_pshc_21.pdf
+Черкаська,Уманський,2021,пшениця,48893,2641431,ц,54.0,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_pshc_21.pdf
+Черкаська,Черкаський,2021,пшениця,49389,2680436,ц,54.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_pshc_21.pdf
+Черкаська,ОБЛАСТЬ,2022,пшениця,170787,796322,т,46.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_22.pdf
+Черкаська,Звенигородський,2022,пшениця,49641,251099,т,50.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_22.pdf
+Черкаська,Золотоніський,2022,пшениця,25949,118612,т,45.7,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_22.pdf
+Черкаська,Уманський,2022,пшениця,48577,215122,т,44.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_22.pdf
+Черкаська,Черкаський,2022,пшениця,46620,211489,т,45.4,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_22.pdf
+Черкаська,ОБЛАСТЬ,2023,пшениця,159253,923946,т,58.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_23.pdf
+Черкаська,Звенигородський,2023,пшениця,46274,270779,т,58.5,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_23.pdf
+Черкаська,Золотоніський,2023,пшениця,24019,144860,т,60.3,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_23.pdf
+Черкаська,Уманський,2023,пшениця,49751,296032,т,59.5,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_23.pdf
+Черкаська,Черкаський,2023,пшениця,39209,212275,т,54.1,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_23.pdf
+Черкаська,ОБЛАСТЬ,2024,пшениця,138959,849018,т,61.1,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_24.pdf
+Черкаська,Звенигородський,2024,пшениця,43207,272360,т,63.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_24.pdf
+Черкаська,Золотоніський,2024,пшениця,21590,135933,т,63.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_24.pdf
+Черкаська,Уманський,2024,пшениця,44507,271604,т,61.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_24.pdf
+Черкаська,Черкаський,2024,пшениця,29655,169121,т,57.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_24.pdf
+Черкаська,ОБЛАСТЬ,2025,пшениця,174759,1047407,т,59.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_25.pdf
+Черкаська,Звенигородський,2025,пшениця,56080,340957,т,60.8,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_25.pdf
+Черкаська,Золотоніський,2025,пшениця,25747,149894,т,58.2,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_25.pdf
+Черкаська,Уманський,2025,пшениця,52054,330457,т,63.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_25.pdf
+Черкаська,Черкаський,2025,пшениця,40878,226099,т,55.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_pshc_25.pdf
+Черкаська,ОБЛАСТЬ,2021,кукурудза,347801,33119182,ц,95.2,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_kuk_21.pdf
+Черкаська,Звенигородський,2021,кукурудза,93739,10167172,ц,108.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_kuk_21.pdf
+Черкаська,Золотоніський,2021,кукурудза,95945,7944818,ц,82.8,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_kuk_21.pdf
+Черкаська,Уманський,2021,кукурудза,76408,7686478,ц,100.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_kuk_21.pdf
+Черкаська,Черкаський,2021,кукурудза,81709,7320717,ц,89.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_kuk_21.pdf
+Черкаська,ОБЛАСТЬ,2023,кукурудза,301678,2670257,т,88.5,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_23.pdf
+Черкаська,Звенигородський,2023,кукурудза,76566,663797,т,86.7,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_23.pdf
+Черкаська,Золотоніський,2023,кукурудза,97363,894441,т,91.9,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_23.pdf
+Черкаська,Уманський,2023,кукурудза,59192,515886,т,87.2,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_23.pdf
+Черкаська,Черкаський,2023,кукурудза,68557,596133,т,87.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_23.pdf
+Черкаська,ОБЛАСТЬ,2024,кукурудза,283048,1929536,т,68.1,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_24.pdf
+Черкаська,Звенигородський,2024,кукурудза,68251,432572,т,63.4,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_24.pdf
+Черкаська,Золотоніський,2024,кукурудза,93736,697473,т,74.4,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_24.pdf
+Черкаська,Уманський,2024,кукурудза,53997,381929,т,70.7,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_24.pdf
+Черкаська,Черкаський,2024,кукурудза,67064,417562,т,62.3,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_24.pdf
+Черкаська,ОБЛАСТЬ,2021,соняшник,239721,7660294,ц,32.0,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_son_rn_21.pdf
+Черкаська,Звенигородський,2021,соняшник,66773,2261098,ц,33.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_son_rn_21.pdf
+Черкаська,Золотоніський,2021,соняшник,47616,1398138,ц,29.4,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_son_rn_21.pdf
+Черкаська,Уманський,2021,соняшник,65240,2144657,ц,32.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_son_rn_21.pdf
+Черкаська,Черкаський,2021,соняшник,60092,1856401,ц,30.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2022/vurobsg_son_rn_21.pdf
+Черкаська,ОБЛАСТЬ,2024,соняшник,208957,589978,т,28.2,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_24.pdf
+Черкаська,Звенигородський,2024,соняшник,56018,157790,т,28.2,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_24.pdf
+Черкаська,Золотоніський,2024,соняшник,39221,117621,т,30.0,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_24.pdf
+Черкаська,Уманський,2024,соняшник,62106,177845,т,28.6,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_24.pdf
+Черкаська,Черкаський,2024,соняшник,51612,136722,т,26.5,остаточні,https://ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_24.pdf
+Полтавська,ОБЛАСТЬ,2021,пшениця,197549,9913073,ц,50.2,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2021/sg_49_2021.htm
+Полтавська,Кременчуцький,2021,пшениця,42907,2129827,ц,49.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2021/sg_49_2021.htm
+Полтавська,Лубенський,2021,пшениця,31406,1574234,ц,50.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2021/sg_49_2021.htm
+Полтавська,Миргородський,2021,пшениця,40635,2007920,ц,49.4,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2021/sg_49_2021.htm
+Полтавська,Полтавський,2021,пшениця,82601,4201092,ц,50.9,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2021/sg_49_2021.htm
+Полтавська,ОБЛАСТЬ,2022,пшениця,179581,779561,т,43.4,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2022/sg_49_12.htm
+Полтавська,Кременчуцький,2022,пшениця,40002,159355,т,39.8,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2022/sg_49_12.htm
+Полтавська,Лубенський,2022,пшениця,33222,152884,т,46.0,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2022/sg_49_12.htm
+Полтавська,Миргородський,2022,пшениця,35165,149009,т,42.4,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2022/sg_49_12.htm
+Полтавська,Полтавський,2022,пшениця,71192,318313,т,44.7,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2022/sg_49_12.htm
+Полтавська,ОБЛАСТЬ,2024,пшениця,168317,875656,т,52.0,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2024/sg_49_12.htm
+Полтавська,Кременчуцький,2024,пшениця,34241,173703,т,50.7,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2024/sg_49_12.htm
+Полтавська,Лубенський,2024,пшениця,39267,233402,т,59.4,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2024/sg_49_12.htm
+Полтавська,Миргородський,2024,пшениця,30037,154124,т,51.3,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2024/sg_49_12.htm
+Полтавська,Полтавський,2024,пшениця,64772,314427,т,48.5,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2024/sg_49_12.htm
+Полтавська,ОБЛАСТЬ,2025,пшениця,211390,963246,т,45.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2025/sg_49_25.htm
+Полтавська,Кременчуцький,2025,пшениця,44851,184010,т,41.0,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2025/sg_49_25.htm
+Полтавська,Лубенський,2025,пшениця,40012,240531,т,60.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2025/sg_49_25.htm
+Полтавська,Миргородський,2025,пшениця,41191,201776,т,49.0,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2025/sg_49_25.htm
+Полтавська,Полтавський,2025,пшениця,85336,336929,т,39.5,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg49/arx_2025/sg_49_25.htm
+Полтавська,ОБЛАСТЬ,2021,кукурудза,543760,37763005,ц,69.4,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2021/sg_47_2021.htm
+Полтавська,Кременчуцький,2021,кукурудза,85342,4819679,ц,56.5,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2021/sg_47_2021.htm
+Полтавська,Лубенський,2021,кукурудза,120763,9858637,ц,81.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2021/sg_47_2021.htm
+Полтавська,Миргородський,2021,кукурудза,129043,7833593,ц,60.7,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2021/sg_47_2021.htm
+Полтавська,Полтавський,2021,кукурудза,208612,15251096,ц,73.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2021/sg_47_2021.htm
+Полтавська,ОБЛАСТЬ,2022,кукурудза,134084,1117956,т,83.4,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2022/sg_47_12.htm
+Полтавська,Кременчуцький,2022,кукурудза,27042,218394,т,80.8,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2022/sg_47_12.htm
+Полтавська,Лубенський,2022,кукурудза,33312,298028,т,89.5,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2022/sg_47_12.htm
+Полтавська,Миргородський,2022,кукурудза,18111,145396,т,80.3,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2022/sg_47_12.htm
+Полтавська,Полтавський,2022,кукурудза,55619,456138,т,82.0,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2022/sg_47_12.htm
+Полтавська,ОБЛАСТЬ,2024,кукурудза,271019,1683001,т,62.1,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2024/sg_47_12.htm
+Полтавська,Кременчуцький,2024,кукурудза,35478,207543,т,58.5,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2024/sg_47_12.htm
+Полтавська,Лубенський,2024,кукурудза,54323,408419,т,75.2,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2024/sg_47_12.htm
+Полтавська,Миргородський,2024,кукурудза,63354,452643,т,71.4,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2024/sg_47_12.htm
+Полтавська,Полтавський,2024,кукурудза,117864,614396,т,52.1,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2024/sg_47_12.htm
+Полтавська,ОБЛАСТЬ,2025,кукурудза,418239,2388288,т,57.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2025/sg_47_25.htm
+Полтавська,Кременчуцький,2025,кукурудза,64568,288305,т,44.7,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2025/sg_47_25.htm
+Полтавська,Лубенський,2025,кукурудза,96548,807331,т,83.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2025/sg_47_25.htm
+Полтавська,Миргородський,2025,кукурудза,88390,581580,т,65.8,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2025/sg_47_25.htm
+Полтавська,Полтавський,2025,кукурудза,168733,711072,т,42.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg47/arx_2025/sg_47_25.htm
+Полтавська,ОБЛАСТЬ,2021,соняшник,333122,8916484,ц,26.8,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2021/sg_35_2021.htm
+Полтавська,Кременчуцький,2021,соняшник,64928,1505150,ц,23.2,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2021/sg_35_2021.htm
+Полтавська,Лубенський,2021,соняшник,64751,1768974,ц,27.3,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2021/sg_35_2021.htm
+Полтавська,Миргородський,2021,соняшник,69262,1859745,ц,26.9,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2021/sg_35_2021.htm
+Полтавська,Полтавський,2021,соняшник,134181,3782615,ц,28.2,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2021/sg_35_2021.htm
+Полтавська,ОБЛАСТЬ,2022,соняшник,272370,795829,т,29.2,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2022/sg_35_12.htm
+Полтавська,Кременчуцький,2022,соняшник,44555,124866,т,28.0,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2022/sg_35_12.htm
+Полтавська,Лубенський,2022,соняшник,54210,158997,т,29.3,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2022/sg_35_12.htm
+Полтавська,Миргородський,2022,соняшник,64779,204343,т,31.5,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2022/sg_35_12.htm
+Полтавська,Полтавський,2022,соняшник,108826,307623,т,28.3,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2022/sg_35_12.htm
+Полтавська,ОБЛАСТЬ,2024,соняшник,256023,660333,т,25.8,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2024/sg_35_12.htm
+Полтавська,Кременчуцький,2024,соняшник,40570,105785,т,26.1,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2024/sg_35_12.htm
+Полтавська,Лубенський,2024,соняшник,37321,102670,т,27.5,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2024/sg_35_12.htm
+Полтавська,Миргородський,2024,соняшник,67341,176292,т,26.2,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2024/sg_35_12.htm
+Полтавська,Полтавський,2024,соняшник,110791,275586,т,24.9,на 1 грудня,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2024/sg_35_12.htm
+Полтавська,ОБЛАСТЬ,2025,соняшник,388160,914775,т,23.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2025/sg_35_25.htm
+Полтавська,Кременчуцький,2025,соняшник,76061,161123,т,21.2,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2025/sg_35_25.htm
+Полтавська,Лубенський,2025,соняшник,59829,155889,т,26.1,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2025/sg_35_25.htm
+Полтавська,Миргородський,2025,соняшник,86433,204326,т,23.6,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2025/sg_35_25.htm
+Полтавська,Полтавський,2025,соняшник,165837,393437,т,23.7,остаточні,https://www.pl.ukrstat.gov.ua/main/stat_info/sg/arx/arx_sg35/arx_2025/sg_35_25.htm
+Черкаська,ОБЛАСТЬ,2022,кукурудза,305105,2128264,т,69.8,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_22.pdf
+Черкаська,Звенигородський,2022,кукурудза,84670,625632,т,73.9,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_22.pdf
+Черкаська,Золотоніський,2022,кукурудза,84672,647519,т,76.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_22.pdf
+Черкаська,Уманський,2022,кукурудза,64753,396802,т,61.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_22.pdf
+Черкаська,Черкаський,2022,кукурудза,71010,458311,т,64.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_22.pdf
+Черкаська,ОБЛАСТЬ,2022,соняшник,228488,609492,т,26.7,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_22.pdf
+Черкаська,Звенигородський,2022,соняшник,62034,168501,т,27.2,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_22.pdf
+Черкаська,Золотоніський,2022,соняшник,45367,128531,т,28.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_22.pdf
+Черкаська,Уманський,2022,соняшник,65379,164390,т,25.1,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_22.pdf
+Черкаська,Черкаський,2022,соняшник,55708,148070,т,26.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_22.pdf
+Черкаська,ОБЛАСТЬ,2025,кукурудза,302994,1964476,т,64.8,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_25.pdf
+Черкаська,Звенигородський,2025,кукурудза,71592,347003,т,48.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_25.pdf
+Черкаська,Золотоніський,2025,кукурудза,93204,694658,т,74.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_25.pdf
+Черкаська,Уманський,2025,кукурудза,55181,456435,т,82.7,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_25.pdf
+Черкаська,Черкаський,2025,кукурудза,83017,466380,т,56.2,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_kuk_25.pdf
+Черкаська,ОБЛАСТЬ,2025,соняшник,236414,629113,т,26.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_25.pdf
+Черкаська,Звенигородський,2025,соняшник,68335,167785,т,24.6,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_25.pdf
+Черкаська,Золотоніський,2025,соняшник,47215,139345,т,29.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_25.pdf
+Черкаська,Уманський,2025,соняшник,64937,191842,т,29.5,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_25.pdf
+Черкаська,Черкаський,2025,соняшник,55927,130141,т,23.3,остаточні,https://www.ck.ukrstat.gov.ua/source/arch/2026/vurobsg_son_rn_25.pdf
+Вінницька,ОБЛАСТЬ,2021,пшениця,257824,14791137,ц,57.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Вінницький,2021,пшениця,64547,3765745,ц,58.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Гайсинський,2021,пшениця,60700,3258941,ц,53.7,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Жмеринський,2021,пшениця,30161,1855699,ц,61.5,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Могилів-Подільський,2021,пшениця,27480,1554384,ц,56.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Тульчинський,2021,пшениця,36642,2134839,ц,58.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,Хмільницький,2021,пшениця,38294,2221529,ц,58.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7598-2022-04-28-06-51-48.html
+Вінницька,ОБЛАСТЬ,2022,пшениця,203891,860780,т,42.2,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Вінницький,2022,пшениця,49271,221375,т,44.9,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Гайсинський,2022,пшениця,47274,179272,т,37.9,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Жмеринський,2022,пшениця,26626,121607,т,45.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Могилів-Подільський,2022,пшениця,22608,78535,т,34.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Тульчинський,2022,пшениця,29790,119297,т,40.0,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,Хмільницький,2022,пшениця,28322,140694,т,49.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8210--------2022-.html
+Вінницька,ОБЛАСТЬ,2023,пшениця,266489,1598432,т,60.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Вінницький,2023,пшениця,65802,410534,т,62.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Гайсинський,2023,пшениця,62754,356963,т,56.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Жмеринський,2023,пшениця,28243,171051,т,60.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Могилів-Подільський,2023,пшениця,31392,181784,т,57.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Тульчинський,2023,пшениця,40381,242653,т,60.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,Хмільницький,2023,пшениця,37917,235447,т,62.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8220--------2023--.html
+Вінницька,ОБЛАСТЬ,2024,пшениця,266583,1508010,т,56.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Вінницький,2024,пшениця,68157,417025,т,61.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Гайсинський,2024,пшениця,62085,352462,т,56.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Жмеринський,2024,пшениця,29221,176722,т,60.5,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Могилів-Подільський,2024,пшениця,34794,159470,т,45.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Тульчинський,2024,пшениця,41384,212447,т,51.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,Хмільницький,2024,пшениця,30942,189884,т,61.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8109--1-2024-.html
+Вінницька,ОБЛАСТЬ,2025,пшениця,287245,1786060,т,62.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Вінницький,2025,пшениця,72039,439582,т,61.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Гайсинський,2025,пшениця,62039,395135,т,63.7,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Жмеринський,2025,пшениця,32212,212807,т,66.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Могилів-Подільський,2025,пшениця,36179,213318,т,59.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Тульчинський,2025,пшениця,52388,320137,т,61.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,Хмільницький,2025,пшениця,32388,205081,т,63.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8026-------2025.html
+Вінницька,ОБЛАСТЬ,2021,кукурудза,391094,38462494,ц,98.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Вінницький,2021,кукурудза,110730,11379712,ц,102.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Гайсинський,2021,кукурудза,81881,7778459,ц,95.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Жмеринський,2021,кукурудза,36171,3689176,ц,102.0,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Могилів-Подільський,2021,кукурудза,43290,3935851,ц,90.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Тульчинський,2021,кукурудза,60555,5817017,ц,96.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,Хмільницький,2021,кукурудза,58467,5862279,ц,100.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7596-2022-04-28-06-41-14.html
+Вінницька,ОБЛАСТЬ,2022,кукурудза,178595,1013256,т,56.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Вінницький,2022,кукурудза,40595,281536,т,69.4,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Гайсинський,2022,кукурудза,49073,241681,т,49.2,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Жмеринський,2022,кукурудза,14895,88762,т,59.6,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Могилів-Подільський,2022,кукурудза,21297,74023,т,34.8,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Тульчинський,2022,кукурудза,34998,163583,т,46.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,Хмільницький,2022,кукурудза,17737,163671,т,92.3,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8216--------2022--.html
+Вінницька,ОБЛАСТЬ,2023,кукурудза,285026,2341189,т,82.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Вінницький,2023,кукурудза,80934,684869,т,84.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Гайсинський,2023,кукурудза,60738,487873,т,80.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Жмеринський,2023,кукурудза,24746,191346,т,77.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Могилів-Подільський,2023,кукурудза,31842,204344,т,64.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Тульчинський,2023,кукурудза,41954,325104,т,77.5,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,Хмільницький,2023,кукурудза,44812,447653,т,99.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8223--------2023-.html
+Вінницька,ОБЛАСТЬ,2024,кукурудза,243943,1752178,т,71.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Вінницький,2024,кукурудза,64658,524186,т,81.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Гайсинський,2024,кукурудза,65035,411773,т,63.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Жмеринський,2024,кукурудза,20192,141974,т,70.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Могилів-Подільський,2024,кукурудза,18221,77756,т,42.7,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Тульчинський,2024,кукурудза,33110,170913,т,51.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,Хмільницький,2024,кукурудза,42727,425576,т,99.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8114--------2024--.html
+Вінницька,ОБЛАСТЬ,2025,кукурудза,267238,2390525,т,89.5,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Вінницький,2025,кукурудза,76949,724815,т,94.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Гайсинський,2025,кукурудза,61118,497491,т,81.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Жмеринський,2025,кукурудза,22099,199199,т,90.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Могилів-Подільський,2025,кукурудза,22850,183540,т,80.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Тульчинський,2025,кукурудза,35127,279043,т,79.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,Хмільницький,2025,кукурудза,49095,506437,т,103.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8057-2025-10-23-12-15-04.html
+Вінницька,ОБЛАСТЬ,2021,соняшник,227263.7,7686286.2,ц,33.8,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Вінницький,2021,соняшник,66277.8,2232000.0,ц,33.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Гайсинський,2021,соняшник,46459.7,1628766.6,ц,35.1,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Жмеринський,2021,соняшник,27809.8,897820.4,ц,32.3,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Могилів-Подільський,2021,соняшник,30339.3,1009034.6,ц,33.3,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Тульчинський,2021,соняшник,31716.2,1099266.1,ц,34.7,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,Хмільницький,2021,соняшник,24661.1,819398.6,ц,33.2,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2021/7444-2018-09-18-13-26-30.html
+Вінницька,ОБЛАСТЬ,2022,соняшник,241897,561868,т,23.2,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Вінницький,2022,соняшник,69908,165228,т,23.6,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Гайсинський,2022,соняшник,54553,130269,т,23.9,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Жмеринський,2022,соняшник,24918,55816,т,22.4,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Могилів-Подільський,2022,соняшник,32523,65046,т,20.0,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Тульчинський,2022,соняшник,27922,64877,т,23.2,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,Хмільницький,2022,соняшник,32073,80632,т,25.1,на 1 грудня,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2022/8215--------2022-.html
+Вінницька,ОБЛАСТЬ,2023,соняшник,276913,879625,т,31.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Вінницький,2023,соняшник,69513,217516,т,31.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Гайсинський,2023,соняшник,64720,215178,т,33.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Жмеринський,2023,соняшник,36961,116421,т,31.5,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Могилів-Подільський,2023,соняшник,34028,105812,т,31.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Тульчинський,2023,соняшник,38279,124976,т,32.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,Хмільницький,2023,соняшник,33412,99722,т,29.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2023/8224--------2023-.html
+Вінницька,ОБЛАСТЬ,2024,соняшник,285877,779532,т,27.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Вінницький,2024,соняшник,72941,216196,т,29.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Гайсинський,2024,соняшник,68309,189789,т,27.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Жмеринський,2024,соняшник,31507,86088,т,27.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Могилів-Подільський,2024,соняшник,40507,93679,т,23.1,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Тульчинський,2024,соняшник,41568,103282,т,24.8,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,Хмільницький,2024,соняшник,31045,90498,т,29.2,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2024/8115--------2024-.html
+Вінницька,ОБЛАСТЬ,2025,соняшник,282724,896366,т,31.7,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Вінницький,2025,соняшник,70233,229046,т,32.6,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Гайсинський,2025,соняшник,70249,224424,т,31.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Жмеринський,2025,соняшник,30172,100834,т,33.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Могилів-Подільський,2025,соняшник,38370,116404,т,30.3,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Тульчинський,2025,соняшник,44886,136590,т,30.4,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Вінницька,Хмільницький,2025,соняшник,28814,89068,т,30.9,остаточні,https://vn.ukrstat.gov.ua/index.php/statistical-information/arhiv2025/8058-2025-10-23-12-39-34.html
+Харківська,ОБЛАСТЬ,2022,пшениця,230573,913560,т,39.6,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Богодухівський,2022,пшениця,41782,186706,т,44.7,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Ізюмський,2022,пшениця,27734,87809,т,31.7,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Красноградський,2022,пшениця,51594,236370,т,45.8,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Куп'янський,2022,пшениця,18706,61483,т,32.9,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Лозівський,2022,пшениця,51822,194028,т,37.4,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Харківський,2022,пшениця,12130,42362,т,34.9,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,Чугуївський,2022,пшениця,26805,104802,т,39.1,на 1 грудня,https://www.kh.ukrstat.gov.ua/arkhiv-vyrobnytstvo-pshenytsi-u-pidpryiemstvakh-po-raionakh-u-2022-rotsi/5372-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-po-rajonakh-na-1-grudnya-2022-roku
+Харківська,ОБЛАСТЬ,2025,пшениця,314575,1137401,т,36.2,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Берестинський,2025,пшениця,61226,223274,т,36.5,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Богодухівський,2025,пшениця,47308,208715,т,44.1,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Ізюмський,2025,пшениця,47277,140457,т,29.7,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Куп'янський,2025,пшениця,34223,127468,т,37.2,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Лозівський,2025,пшениця,74559,251705,т,33.8,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Харківський,2025,пшениця,15764,61664,т,39.1,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Чугуївський,2025,пшениця,34219,124120,т,36.3,остаточні,https://www.kh.ukrstat.gov.ua/2025virobpshen/5137-arkhiv-virobnitstvo-pshenitsi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,ОБЛАСТЬ,2025,кукурудза,134547,595891,т,44.3,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Берестинський,2025,кукурудза,33399,154478,т,46.3,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Богодухівський,2025,кукурудза,40292,184230,т,45.7,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Ізюмський,2025,кукурудза,6936,25522,т,36.8,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Куп'янський,2025,кукурудза,12467,60019,т,48.1,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Лозівський,2025,кукурудза,16115,58388,т,36.2,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Харківський,2025,кукурудза,7477,39892,т,53.4,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Чугуївський,2025,кукурудза,17859,73362,т,41.1,остаточні,https://www.kh.ukrstat.gov.ua/2025virobkykyryz/5140-arkhiv-virobnitstvo-kukurudzi-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,ОБЛАСТЬ,2025,соняшник,484964,997995,т,20.6,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Берестинський,2025,соняшник,91778,232477,т,25.3,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Богодухівський,2025,соняшник,71222,165238,т,23.2,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Ізюмський,2025,соняшник,94729,153316,т,16.2,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Куп'янський,2025,соняшник,54591,111637,т,20.4,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Лозівський,2025,соняшник,97231,187694,т,19.3,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Харківський,2025,соняшник,22531,45548,т,20.2,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Харківська,Чугуївський,2025,соняшник,52881,102084,т,19.3,остаточні,https://www.kh.ukrstat.gov.ua/2025sonyshpomistax/5136-arkhiv-virobnitstvo-sonyashniku-u-pidpriemstvakh-za-rajonami-u-2025-rotsi
+Сумська,ОБЛАСТЬ,2024,пшениця,120701,696887,т,57.7,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,Конотопський,2024,пшениця,33990,211851,т,62.3,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,Охтирський,2024,пшениця,13351,65171,т,48.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,Роменський,2024,пшениця,20935,132277,т,63.2,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,Сумський,2024,пшениця,32460,180939,т,55.7,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,Шосткинський,2024,пшениця,19965,106649,т,53.4,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14783
+Сумська,ОБЛАСТЬ,2025,пшениця,117830,771749,т,65.5,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,Конотопський,2025,пшениця,28335,200669,т,70.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,Охтирський,2025,пшениця,14587,78543,т,53.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,Роменський,2025,пшениця,22480,156885,т,69.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,Сумський,2025,пшениця,38777,256721,т,66.2,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,Шосткинський,2025,пшениця,13651,78931,т,57.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1321&article_id=14739
+Сумська,ОБЛАСТЬ,2024,кукурудза,208419,1738940,т,83.4,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,Конотопський,2024,кукурудза,57127,486345,т,85.1,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,Охтирський,2024,кукурудза,27361,204205,т,74.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,Роменський,2024,кукурудза,50682,428834,т,84.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,Сумський,2024,кукурудза,48356,389575,т,80.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,Шосткинський,2024,кукурудза,24893,229981,т,92.4,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14785
+Сумська,ОБЛАСТЬ,2025,кукурудза,198376,2023654,т,102.0,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,Конотопський,2025,кукурудза,42510,504349,т,118.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,Охтирський,2025,кукурудза,25248,199219,т,78.9,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,Роменський,2025,кукурудза,67851,671638,т,99.0,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,Сумський,2025,кукурудза,48263,483332,т,100.1,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,Шосткинський,2025,кукурудза,14504,165116,т,113.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1324&article_id=14741
+Сумська,ОБЛАСТЬ,2021,соняшник,235000,7414172,ц,31.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,Конотопський,2021,соняшник,55019,1751746,ц,31.8,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,Охтирський,2021,соняшник,28762,879961,ц,30.6,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,Роменський,2021,соняшник,47368,1570811,ц,33.2,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,Сумський,2021,соняшник,65093,2014930,ц,31.0,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,Шосткинський,2021,соняшник,38758,1196724,ц,30.9,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=13054
+Сумська,ОБЛАСТЬ,2024,соняшник,139067,393817,т,28.3,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,Конотопський,2024,соняшник,26079,69063,т,26.5,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,Охтирський,2024,соняшник,27923,74614,т,26.7,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,Роменський,2024,соняшник,31646,96023,т,30.3,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,Сумський,2024,соняшник,43935,129495,т,29.5,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,Шосткинський,2024,соняшник,9484,24622,т,26.0,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14787
+Сумська,ОБЛАСТЬ,2025,соняшник,156464,433930,т,27.7,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Сумська,Конотопський,2025,соняшник,31929,87369,т,27.4,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Сумська,Охтирський,2025,соняшник,36235,95518,т,26.4,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Сумська,Роменський,2025,соняшник,31100,90303,т,29.0,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Сумська,Сумський,2025,соняшник,42224,123787,т,29.3,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Сумська,Шосткинський,2025,соняшник,14976,36953,т,24.7,на 1 грудня,https://sumy.ukrstat.gov.ua/?menu=1320&article_id=14743
+Чернігівська,ОБЛАСТЬ,2021,соняшник,217552,6710782,ц,30.8,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,Корюківський,2021,соняшник,28817,712093,ц,24.7,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,Ніжинський,2021,соняшник,60663,2124439,ц,35.0,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,Новгород-Сіверський,2021,соняшник,21021,538050,ц,25.6,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,Прилуцький,2021,соняшник,37318,1300162,ц,34.8,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,Чернігівський,2021,соняшник,69733,2036038,ц,29.2,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2021/S43_12.htm
+Чернігівська,ОБЛАСТЬ,2024,пшениця,144234,854760,т,59.3,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,Корюківський,2024,пшениця,12768,79641,т,62.4,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,Ніжинський,2024,пшениця,40238,253055,т,62.9,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,Новгород-Сіверський,2024,пшениця,18358,94546,т,51.5,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,Прилуцький,2024,пшениця,34869,241417,т,69.2,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,Чернігівський,2024,пшениця,38001,186101,т,49.0,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S44_11.htm
+Чернігівська,ОБЛАСТЬ,2024,кукурудза,304543,2740148,т,90.0,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,Корюківський,2024,кукурудза,28065,283389,т,101.0,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,Ніжинський,2024,кукурудза,118338,1098734,т,92.8,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,Новгород-Сіверський,2024,кукурудза,17149,116234,т,67.8,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,Прилуцький,2024,кукурудза,80743,697198,т,86.3,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,Чернігівський,2024,кукурудза,60248,544593,т,90.4,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S46_11.htm
+Чернігівська,ОБЛАСТЬ,2024,соняшник,163917,457508,т,27.9,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,Корюківський,2024,соняшник,20681,46997,т,22.7,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,Ніжинський,2024,соняшник,54426,179002,т,32.9,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,Новгород-Сіверський,2024,соняшник,7041,14723,т,20.9,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,Прилуцький,2024,соняшник,30493,93779,т,30.8,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,Чернігівський,2024,соняшник,51276,123007,т,24.0,на 1 грудня,https://www.chernigivstat.gov.ua/statdani/S_hos/2024/S43_11.htm
+Чернігівська,ОБЛАСТЬ,2025,пшениця,197980,1306783,т,66.0,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,Корюківський,2025,пшениця,19698,129969,т,66.0,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,Ніжинський,2025,пшениця,57876,391758,т,67.7,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,Новгород-Сіверський,2025,пшениця,23644,128703,т,54.4,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,Прилуцький,2025,пшениця,47797,364377,т,76.2,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,Чернігівський,2025,пшениця,48965,291976,т,59.6,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S44_12.htm
+Чернігівська,ОБЛАСТЬ,2025,кукурудза,489020,4671776,т,95.5,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,Корюківський,2025,кукурудза,46293,427782,т,92.4,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,Ніжинський,2025,кукурудза,176791,1629323,т,92.2,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,Новгород-Сіверський,2025,кукурудза,21663,201241,т,92.9,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,Прилуцький,2025,кукурудза,140552,1526024,т,108.6,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,Чернігівський,2025,кукурудза,103721,887406,т,85.6,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S46_12.htm
+Чернігівська,ОБЛАСТЬ,2025,соняшник,229264,635773,т,27.7,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
+Чернігівська,Корюківський,2025,соняшник,35396,96451,т,27.2,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
+Чернігівська,Ніжинський,2025,соняшник,67405,194377,т,28.8,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
+Чернігівська,Новгород-Сіверський,2025,соняшник,22959,71379,т,31.1,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
+Чернігівська,Прилуцький,2025,соняшник,26260,73295,т,27.9,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
+Чернігівська,Чернігівський,2025,соняшник,77244,200271,т,25.9,остаточні,https://www.chernigivstat.gov.ua/statdani/S_hos/2025/S43_12.htm
